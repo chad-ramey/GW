@@ -3,7 +3,6 @@
 This repository contains Python and JavaScript scripts designed to automate tasks related to managing Google Workspace, including shared drive management, user settings export, and license notifications.
 
 ## Table of Contents
-- [Google Workspace Lab](#google-workspace-lab)
   - [Table of Contents](#table-of-contents)
   - [Scripts Overview](#scripts-overview)
   - [Requirements](#requirements)
@@ -15,11 +14,11 @@ This repository contains Python and JavaScript scripts designed to automate task
 ## Scripts Overview
 Here’s a list of all the scripts in this repository along with their descriptions:
 
-1. **gw_export_shared_drives_acls.py**: Exports the Access Control List (ACL) settings for all shared drives in the Google Workspace environment.
-2. **gw_export_users_with_forwarding.py**: Exports a list of all users who have email forwarding enabled.
-3. **gw_gg_settings_backup.py**: Backs up the settings of Google Groups in the organization, including visibility and member settings.
-4. **gw_groups_backup.py**: Exports a backup of all Google Groups and their members in the domain.
-5. **gw_license_notifier.js**: Monitors and sends notifications related to Google Workspace licensing, notifying admins when licenses reach specific thresholds.
+1. **[gw_export_shared_drives_acls.py](gw_export_shared_drives_acls.py)**: Exports the Access Control List (ACL) settings for all shared drives in the Google Workspace environment.
+2. **[gw_export_users_with_forwarding.py](gw_export_users_with_forwarding.py)**: Exports a list of all users who have email forwarding enabled.
+3. **[gw_gg_settings_backup.py](gw_gg_settings_backup.py)**: Backs up the settings of Google Groups in the organization, including visibility and member settings.
+4. **[gw_groups_backup.py](gw_groups_backup.py)**: Exports a backup of all Google Groups and their members in the domain.
+5. **[gw_license_notifier.js](gw_license_notifier.js)**: Monitors and sends notifications related to Google Workspace licensing, notifying admins when licenses reach specific thresholds.
 
 ## Requirements
 - **Python 3.x** (for Python scripts): Ensure that Python 3 is installed on your system.
