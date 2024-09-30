@@ -3,7 +3,6 @@
 This repository contains Python and JavaScript scripts designed to automate tasks related to managing Google Workspace, including shared drive management, user settings export, and license notifications.
 
 ## Table of Contents
-  - [Table of Contents](#table-of-contents)
   - [Scripts Overview](#scripts-overview)
   - [Requirements](#requirements)
   - [Installation](#installation)
