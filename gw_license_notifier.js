@@ -12,7 +12,7 @@
  * Requirements:
  * - Google Admin SDK enabled for License Manager API
  * - Slack webhooks for notifications
- * - The script is triggered by a custom menu added to Google Sheets.
+ * - The script is triggered by a custom menu added to Google Sheets as well as a GAS trigger. 
  * 
  * Dependencies:
  * - Google Admin License Manager API
